@@ -1,0 +1,6 @@
+"ID","name","expense account","income account","stock input account","stock output account","stock valuation account","Costing Method","Inventory Valuation"
+"Baju Gamis","Baju Gamis","5-100001","4-100001","2-900000","2-900000","1-130001","average","real_time"
+"Baju Koko","Baju Koko","5-100002","4-100002","2-900000","2-900000","1-130002","average","real_time"
+"Sajadah","Sajadah","5-100003","4-100003","2-900000","2-900000","1-130003","average","real_time"
+"Bahan Aksesoris","Bahan Aksesoris","5-100004","4-100004","2-900000","2-900000","1-130004","average","real_time"
+"Bahan Kain","Bahan Kain","5-100005","4-100005","2-900000","2-900000","1-130005","average","real_time"

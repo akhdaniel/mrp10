@@ -1,0 +1,71 @@
+"Journal","Period","Reference","Date","Entries/Name","Entries/Partner","Entries/Account","Entries/debit","Entries/credit"
+"Opening Entries Journal","Opening Period 2017","Saldo Awal","2017-01-01","Kas Kecil",,"1-111001",150000000,
+,,,,"Mandiri Personal",,"1-112001",500000000,
+,,,,"Mandiri Bisnis",,"1-112002",1200000000,
+,,,,"Muamalat",,"1-112003",125000000,
+,,,,"BNI",,"1-112004",500000000,
+,,,,"BCA",,"1-112005",550000000,
+,,,,"Piutang Usaha","ABDI SEJAHTERA CV","1-121001",110000000,
+,,,,"Piutang Usaha","BERDIKARI. UD","1-121001",50000000,
+,,,,"Piutang Usaha","CAHAYA BAKERY","1-121001",53000000,
+,,,,"Piutang Usaha","FAJAR PUTRA UTAMA","1-121001",42000000,
+,,,,"Piutang Usaha","FAUZIAH","1-121001",61000000,
+,,,,"Piutang Usaha","HENRA","1-121001",100000000,
+,,,,"Piutang Usaha","HERMANUS","1-121001",500000,
+,,,,"Piutang Usaha","INDO PANGAN SENTOSA, CV","1-121001",1000000,
+,,,,"Piutang Usaha","INDOPRIMA","1-121001",1000000,
+,,,,"Piutang Usaha","INTI MANDIRI SUKSES CV","1-121001",1000000,
+,,,,"Piutang Usaha","JACLYN CAKE","1-121001",130500000,
+,,,,"Piutang Karyawan",,"1-121002",50000000,
+,,,,"Persediaan Gamis",,"1-130001",200000000,
+,,,,"Persediaan Baju Koko",,"1-130002",100000000,
+,,,,"Persediaan Sajadah",,"1-130003",100000000,
+,,,,"Persediaan Aksesoris",,"1-130004",50000000,
+,,,,"Persediaan Kain",,"1-130005",100000000,
+,,,,"Bangunan Kantor",,"1-221002",2000000000,
+,,,,"Kendaraan",,"1-221003",1000000000,
+,,,,"Perlatan Kantor",,"1-221004",700000000,
+,,,,"Software",,"1-221005",200000000,
+,,,,"Furnitur Kantor",,"1-221006",500000000,
+,,,,"Hutang Usaha","LANCAR SEJATI UD","2-110001",,50000000
+,,,,"Hutang Usaha","LUCKY, CV","2-110001",,50000000
+,,,,"Hutang Usaha","MAHMUD, H","2-110001",,40000000
+,,,,"Hutang Usaha","MAKMUR SEJAHTERA. CV","2-110001",,60000000
+,,,,"Hutang Usaha","MARLIA","2-110001",,45000000
+,,,,"Hutang Usaha","MILENIUM TOKO","2-110001",,23000000
+,,,,"Hutang Usaha","MITRADAYA DISTRIBUSINDO","2-110001",,25000000
+,,,,"Hutang Usaha","MUHAMAD ARDHIANTO","2-110001",,15000000
+,,,,"Hutang Usaha","MUSTIKA BATU GILANG","2-110001",,192000000
+,,,,"Hutang Pemegang Saham",,"2-110002",,500000000
+,,,,"Hutang Pihak Ketiga",,"2-110003",,322000000
+,,,,"Hutang Pajak PPh 21",,"2-121001",,40000000
+,,,,"Hutang Pajak PPh 23",,"2-121002",,49000000
+,,,,"Cadangan Modal",,"3-121001",,3000000000
+,,,,"Laba Rugi Tahun Lalu",,"3-151001",,1200000000
+,,,,"Penjualan Gamis",,"4-100001",,3500000000
+,,,,"Penjualan Baju Koko",,"4-100002",,5400000000
+,,,,"Penjualan Aksesoris",,"4-100003",,1200000000
+,,,,"HPP Gamis",,"5-100001",2100000000,
+,,,,"HPP Baju Koko",,"5-100002",3510000000,
+,,,,"HPP Aksesoris",,"5-100003",720000000,
+,,,,"Gaji Karyawan",,"6-110001",120000000,
+,,,,"Tunjangan/ Bonus Karyawan",,"6-110002",100000000,
+,,,,"Pangan karyawan (catering)",,"6-110004",60000000,
+,,,,"Lembur Karyawan ",,"6-110005",60000000,
+,,,,"Fee Jasa Keamanan",,"6-110006",50000000,
+,,,,"Pakaian Kerja",,"6-110007",40000000,
+,,,,"Free Gift",,"6-211001",50000000,
+,,,,"Event ",,"6-211002",100000000,
+,,,,"Air Minum",,"6-311001",50000000,
+,,,,"Keperluan Olahraga",,"6-311002",20000000,
+,,,,"Iuran Bulanan",,"6-311003",10000000,
+,,,,"Alat Tulis Kantor",,"6-411001",50000000,
+,,,,"Keperluan Pos",,"6-411002",10000000,
+,,,,"Jilid & Photocopy",,"6-411003",10000000,
+,,,,"Biaya Konsultan",,"6-511003",100000000,
+,,,,"Biaya Pemeliharaan & Perawatan Gedung",,"6-511006",18000000,
+,,,,"Pendapatan Bunga",,"8-110001",,45000000
+,,,,"Beban Bunga",,"9-110001",2000000,
+,,,,"Beban Administrasi Bank",,"9-110002",1000000,
+,,,,"Credit Centralization",,"3-900000",15756000000,
+,,,,"Debit Centralization",,"3-900000",,15756000000

@@ -1,0 +1,23 @@
+id,code,name,resource_type
+__export__.mrp_workcenter_100,MIXER,Mixer,material
+__export__.mrp_workcenter_101,Scale,Scale,material
+__export__.mrp_workcenter_102,Mixer,Mixer,material
+__export__.mrp_workcenter_103,QC,QC,user
+__export__.mrp_workcenter_104,Filling,Mesin Filling,material
+__export__.mrp_workcenter_105,Visual,Visual,user
+__export__.mrp_workcenter_106,Labelling,Labelling,material
+__export__.mrp_workcenter_107,Packing,Packing,material
+__export__.mrp_workcenter_108,Bilas,Mesin Bilas,user
+__export__.mrp_workcenter_109,Pengering,Mesin Pengering,material
+__export__.mrp_workcenter_110,Coding,Coding,user
+__export__.mrp_workcenter_111,Stripping,Mesin Stripping,material
+__export__.mrp_workcenter_112,Filling & Capping,Mesin Filling & Capping,material
+__export__.mrp_workcenter_113,Melting,,
+__export__.mrp_workcenter_114,Encapsulasi,,
+__export__.mrp_workcenter_115,Drying,,
+__export__.mrp_workcenter_116,Counting & Bottling,,
+__export__.mrp_workcenter_117,Stripping/Blistering,,
+__export__.mrp_workcenter_118,Cetak,,
+__export__.mrp_workcenter_119,Sterillisasi,,
+__export__.mrp_workcenter_120,Integrity Test,,
+__export__.mrp_workcenter_121,Filtrasi,,

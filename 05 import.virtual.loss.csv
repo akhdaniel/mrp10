@@ -1,0 +1,6 @@
+"Location Name","Parent Location","Location Type","Stock Valuation Account (Incoming)","Stock Valuation Account (Outgoing)"
+"Inventory Loss Baju Gamis","Virtual Locations","Inventory Loss","5-100001","5-100001"
+"Inventory Loss Baju Koko","Virtual Locations","Inventory Loss","5-100002","5-100002"
+"Inventory Loss Sajadah","Virtual Locations","Inventory Loss","5-100003","5-100004"
+"Inventory Loss Bahan Aksesoris","Virtual Locations","Inventory Loss","5-100004","5-100004"
+"Inventory Loss Bahan Kain","Virtual Locations","Inventory Loss","5-100005","5-100005"
